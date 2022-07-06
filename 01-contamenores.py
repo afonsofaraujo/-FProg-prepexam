@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+Created on Wed Jul  6 16:01:09 2022
 
-This is a temporary script file.
+@author: Afonso Araújo
 """
 def conta_menores(lista ,inteiro):
     n = 0
